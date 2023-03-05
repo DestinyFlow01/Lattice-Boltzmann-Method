@@ -19,7 +19,7 @@ int main() {
 	
 	
 	//Iterations 
-	/*
+	
 	for(step = 1; step<=T_OUT; step++) {
 		//Collision
 		lb.Collision();
@@ -36,5 +36,5 @@ int main() {
 			cout<<"Step = "<<step<<endl;
 		}
 	}
-	*/
+	
 }
